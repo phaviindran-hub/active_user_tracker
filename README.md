@@ -1,2 +1,2 @@
 # active_user_tracker
-this is a project i built to track login and logout events across different machines>
+i built this to track login and logout events across different machines , i used dictionaries and sets to store the dat and loops to process the events
